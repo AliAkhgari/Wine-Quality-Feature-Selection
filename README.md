@@ -15,7 +15,7 @@ To perform backward elimination using this tool, use the `backward_elimination` 
 
 ## Usage
 
-```pytohn
+```python
 import pandas as pd
 from feature_selection import FeatureSelection
 from sklearn.model_selection import train_test_split
